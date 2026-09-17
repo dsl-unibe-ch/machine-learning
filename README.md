@@ -2,8 +2,11 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neworldemancer/DSF5)
 
-Learning outcomes:
+## Acknowledgements
 
+*This course builds upon the original teaching materials developed by Dr. Mykhailo Vladymyrov and Dr. Aris Marcolongo. The current version is maintained and further developed by the Data Science Lab at the University of Bern.*
+
+## Learning outcomes
 
 * Overview of machine learning pipelines and their implementation with scikit-learn
 * Regression and Classification: linear models and logistic regression
