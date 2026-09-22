@@ -1,0 +1,28 @@
+[project]
+name = "machine-learning"
+version = "0.1.0"
+description = "Course materials for machine learning and data analysis"
+readme = "README.md"
+requires-python = ">=3.10,<3.14"
+dependencies = [
+    "hdbscan",
+    "imageio",
+    "ipykernel",
+    "ipython",
+    "ipywidgets",
+    "matplotlib",
+    "numpy",
+    "packaging",
+    "pandas",
+    "pillow",
+    "plotly",
+    "scikit-image",
+    "scikit-learn",
+    "scipy",
+    "seaborn",
+    "umap-learn",
+    "xgboost",
+]
+
+[tool.uv]
+package = false
