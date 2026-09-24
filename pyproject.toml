@@ -20,6 +20,7 @@ dependencies = [
     "scikit-learn",
     "scipy",
     "seaborn",
+    "torch>=2.14.0",
     "umap-learn",
     "xgboost",
 ]
